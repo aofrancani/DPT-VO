@@ -84,7 +84,7 @@ The evalutaion is done with the [KITTI odometry evaluation toolbox](https://gith
 
 
 ## Citation
-Please cite our paper you find this research useful in your work:
+Please cite our paper if you find this research useful in your work:
 
 ```bibtex
 @INPROCEEDINGS{Francani2022,
